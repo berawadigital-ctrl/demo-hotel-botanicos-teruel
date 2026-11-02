@@ -1,0 +1,444 @@
+{
+ "url": "file:///tmp/clon-hotel-botanicos-teruel/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitación con terraza, superior y standard (hasta 2 personas, 14-17 m²), plus (la más amplia, 25 m², hasta 4 personas con sofá cama) e "
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas tienen wifi, climatización, minibar, hervidor de agua, televisión y caja fuerte."
+    },
+    {
+     "q": "¿Tenéis parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tienen parking privado exclusivo para huéspedes, con acceso directo al hotel y a las habitaciones. Las plazas del parking interior son solo "
+    },
+    {
+     "q": "¿A qué hora es el desayuno?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Desayuno buffet de lunes a viernes de 7:30 a 10:30 h, y fines de semana y festivos de 8:00 a 11:00 h."
+    },
+    {
+     "q": "¿A qué hora es la entrada?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La entrada es a partir de las 14:00 y la salida hasta las 12:00. Hay late check out según disponibilidad."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, el hotel no acepta mascotas."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en el Camino de la Estación, 27, 44001 Teruel, en pleno centro, junto al Parque de la Escalinata, con salida peatonal por la Calle San "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni"
+    },
+    {
+     "q": "¿Hay servicio de habitaciones?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí: room service de 08:00 a 11:00 y de 19:00 a 22:00. También hay servicio de lavandería y lobby bar."
+    },
+    {
+     "q": "¿Qué ver en Teruel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "A pocos minutos a pie: la Plaza del Torico, la Catedral de Santa María de Mediavilla, el Mausoleo de los Amantes, la Escalinata del Óvalo y "
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: (+34) 978 623 957. Correo: reservas@granhotelbotanicos.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Tenéis cunas?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene cunas para bebés; es un servicio gratuito y previa reserva."
+    },
+    {
+     "q": "¿Vengo en bici, dónde la dejo?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Tienen una Bike Zone equipada para cuidar tu bici, lavarla y dejarla bajo llave con vigilancia 24 h."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 978 623 957 · reservas@granhotelbotanicos.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 978 623 957 · reservas@granhotelbotanicos.com."
+    }
+   ],
+   "chips": [
+    "¿Tenéis parking?",
+    "¿A qué hora es el desayuno?",
+    "¿Qué habitaciones tenéis?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are rooms with terrace, superior and standard (up to 2 people, 14-17 m²), plus (the largest, 25 m², up to 4 people with sofa bed) and "
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All have wifi, air conditioning, minibar, kettle, television and safe."
+    },
+    {
+     "q": "Do you have parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "They have private parking exclusively for guests, with direct access to the hotel and rooms. Indoor spaces are for motorbikes only, limited "
+    },
+    {
+     "q": "What time is breakfast?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Buffet breakfast Monday to Friday 7:30 to 10:30, and weekends and public holidays 8:00 to 11:00."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Check-in is from 14:00 and check-out until 12:00. Late check-out is possible subject to availability."
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, the hotel does not accept pets."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Camino de la Estación, 27, 44001 Teruel, right in the centre, next to the Escalinata park, with a pedestrian exit onto Calle San Fr"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button) or ask by phone or email. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Is there room service?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes: room service from 08:00 to 11:00 and from 19:00 to 22:00. There is also a laundry service and a lobby bar."
+    },
+    {
+     "q": "What to see in Teruel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "A few minutes’ walk away: the Plaza del Torico, Santa María de Mediavilla Cathedral, the Mausoleum of the Lovers, the Escalinata del Óvalo a"
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: (+34) 978 623 957. Email: reservas@granhotelbotanicos.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you have cots?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes, the hotel has baby cots; the service is free and must be requested in advance."
+    },
+    {
+     "q": "Where can I leave my bike?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "They have a Bike Zone equipped to look after your bike, wash it and lock it away with 24 h surveillance."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 978 623 957 · reservas@granhotelbotanicos.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 978 623 957 · reservas@granhotelbotanicos.com."
+    }
+   ],
+   "chips": [
+    "Do you have parking?",
+    "What time is breakfast?",
+    "Which rooms do you have?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres avec terrasse, supérieures et standard (jusqu’à 2 personnes, 14-17 m²), plus (la plus grande, 25 m², jusqu’à 4 personnes"
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes ont wifi, climatisation, minibar, bouilloire, télévision et coffre-fort."
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ils disposent d’un parking privé réservé aux clients, avec accès direct à l’hôtel et aux chambres. Les places intérieures sont réservées aux"
+    },
+    {
+     "q": "À quelle heure est le petit-déjeuner ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Petit-déjeuner buffet du lundi au vendredi de 7:30 à 10:30, et le week-end et les jours fériés de 8:00 à 11:00."
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L’arrivée se fait à partir de 14:00 et le départ jusqu’à 12:00. Départ tardif possible selon disponibilité."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Non, l’hôtel n’accepte pas les animaux."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Camino de la Estación, 27, 44001 Teruel, en plein centre, à côté du parc de l’Escalinata, avec une sortie piétonne par la "
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni "
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni "
+    },
+    {
+     "q": "Y a-t-il un room service ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui : room service de 08:00 à 11:00 et de 19:00 à 22:00. Il y a aussi un service de blanchisserie et un lobby bar."
+    },
+    {
+     "q": "Que voir à Teruel ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "À quelques minutes à pied : la Plaza del Torico, la cathédrale Santa María de Mediavilla, le mausolée des Amants, l’Escalinata del Óvalo et "
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : (+34) 978 623 957. E-mail : reservas@granhotelbotanicos.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Avez-vous des lits bébé ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel dispose de lits bébé ; c’est un service gratuit, sur réservation préalable."
+    },
+    {
+     "q": "Où laisser mon vélo ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Ils ont une Bike Zone équipée pour entretenir votre vélo, le laver et le laisser sous clé avec surveillance 24 h."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 978 623 957 · reservas@granhotelbotanicos.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 978 623 957 · reservas@granhotelbotanicos.com."
+    }
+   ],
+   "chips": [
+    "Avez-vous un parking ?",
+    "À quelle heure est le petit-déjeuner ?",
+    "Quelles chambres avez-vous ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Zimmer mit Terrasse, Superior und Standard (bis 2 Personen, 14-17 m²), Plus (das größte, 25 m², bis 4 Personen mit Schlafsofa) und E"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Alle haben WLAN, Klimaanlage, Minibar, Wasserkocher, Fernseher und Safe."
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Es gibt einen Privatparkplatz nur für Gäste mit direktem Zugang zum Hotel und zu den Zimmern. Die Innenplätze sind nur für Motorräder, begre"
+    },
+    {
+     "q": "Wann gibt es Frühstück?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Frühstücksbuffet Montag bis Freitag 7:30 bis 10:30 Uhr, am Wochenende und an Feiertagen 8:00 bis 11:00 Uhr."
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Check-in ab 14:00 Uhr, Check-out bis 12:00 Uhr. Später Check-out je nach Verfügbarkeit."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Nein, das Hotel nimmt keine Haustiere auf."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Das Hotel liegt am Camino de la Estación, 27, 44001 Teruel, mitten im Zentrum neben dem Escalinata-Park, mit Fußgängerausgang zur Calle San "
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt wede"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt wede"
+    },
+    {
+     "q": "Gibt es Zimmerservice?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja: Zimmerservice von 08:00 bis 11:00 und von 19:00 bis 22:00 Uhr. Außerdem Wäscheservice und eine Lobbybar."
+    },
+    {
+     "q": "Was kann man in Teruel besichtigen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Wenige Gehminuten entfernt: die Plaza del Torico, die Kathedrale Santa María de Mediavilla, das Mausoleum der Liebenden, die Escalinata del "
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: (+34) 978 623 957. E-Mail: reservas@granhotelbotanicos.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Haben Sie Kinderbetten?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat Babybetten; der Service ist kostenlos und muss vorab reserviert werden."
+    },
+    {
+     "q": "Wo kann ich mein Fahrrad lassen?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Es gibt eine Bike Zone, um das Rad zu pflegen, zu waschen und unter Verschluss mit 24-h-Überwachung abzustellen."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 978 623 957 · reservas@granhotelbotanicos.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 978 623 957 · reservas@granhotelbotanicos.com."
+    }
+   ],
+   "chips": [
+    "Gibt es einen Parkplatz?",
+    "Wann gibt es Frühstück?",
+    "Welche Zimmer gibt es?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
