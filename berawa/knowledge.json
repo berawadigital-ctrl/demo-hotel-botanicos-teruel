@@ -1,0 +1,591 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-botanicos-teruel",
+ "source_site": "https://granhotelbotanicos.com/",
+ "source_read_at": "2026-11-02T09:16:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitaciones",
+     "terraza",
+     "superior",
+     "individual"
+    ],
+    "en": [
+     "which rooms",
+     "terrace",
+     "superior",
+     "single"
+    ],
+    "fr": [
+     "quelles chambres",
+     "terrasse",
+     "superieure",
+     "individuelle"
+    ],
+    "de": [
+     "welche zimmer",
+     "terrasse",
+     "superior",
+     "einzelzimmer"
+    ]
+   },
+   "a": {
+    "es": "Hay habitación con terraza, superior y standard (hasta 2 personas, 14-17 m²), plus (la más amplia, 25 m², hasta 4 personas con sofá cama) e individual (13 m², al patio interior).",
+    "en": "There are rooms with terrace, superior and standard (up to 2 people, 14-17 m²), plus (the largest, 25 m², up to 4 people with sofa bed) and single (13 m², facing the inner courtyard).",
+    "fr": "Il y a des chambres avec terrasse, supérieures et standard (jusqu’à 2 personnes, 14-17 m²), plus (la plus grande, 25 m², jusqu’à 4 personnes avec canapé-lit) et individuelle (13 m², sur le patio intérieur).",
+    "de": "Es gibt Zimmer mit Terrasse, Superior und Standard (bis 2 Personen, 14-17 m²), Plus (das größte, 25 m², bis 4 Personen mit Schlafsofa) und Einzelzimmer (13 m², zum Innenhof)."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/habitaciones/",
+     "quote": "Habitación con terraza Max. 2 personas 14-17 m 2"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/habitaciones/",
+     "quote": "Habitación plus Max. 4 personas 25 m 2 matrimonio / 2 camas + sofa cama Son las habitaciones más amplias del Hotel"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/habitaciones/",
+     "quote": "Habitación individual 👤 Max. 1 persona ℹ️ 13 m 2"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/habitaciones/",
+     "quote": "dan al patio interior del hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "television",
+     "minibar",
+     "climatizacion",
+     "caja fuerte",
+     "tienen las habitaciones"
+    ],
+    "en": [
+     "wifi",
+     " tv",
+     "television",
+     "minibar",
+     "air conditioning",
+     "include"
+    ],
+    "fr": [
+     "wifi",
+     "television",
+     "minibar",
+     "climatisation",
+     "comprennent"
+    ],
+    "de": [
+     "wlan",
+     "fernseh",
+     "minibar",
+     "klimaanlage",
+     "bieten die zimmer"
+    ]
+   },
+   "a": {
+    "es": "Todas tienen wifi, climatización, minibar, hervidor de agua, televisión y caja fuerte.",
+    "en": "All have wifi, air conditioning, minibar, kettle, television and safe.",
+    "fr": "Toutes ont wifi, climatisation, minibar, bouilloire, télévision et coffre-fort.",
+    "de": "Alle haben WLAN, Klimaanlage, Minibar, Wasserkocher, Fernseher und Safe."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/habitaciones/",
+     "quote": "WIFI Climatización Minibar Hervidor de agua Televisión Caja fuerte"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche",
+     "moto"
+    ],
+    "en": [
+     "parking",
+     "garage",
+     "car ",
+     "motorbike"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture",
+     "moto"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     " auto",
+     "motorrad"
+    ]
+   },
+   "a": {
+    "es": "Tienen parking privado exclusivo para huéspedes, con acceso directo al hotel y a las habitaciones. Las plazas del parking interior son solo para motos, limitadas y por orden de llegada; si se llena, está el parking exterior, también privado y vigilado.",
+    "en": "They have private parking exclusively for guests, with direct access to the hotel and rooms. Indoor spaces are for motorbikes only, limited and first come, first served; when full, there is the outdoor car park, also private and supervised.",
+    "fr": "Ils disposent d’un parking privé réservé aux clients, avec accès direct à l’hôtel et aux chambres. Les places intérieures sont réservées aux motos, limitées et attribuées par ordre d’arrivée ; une fois plein, il y a le parking extérieur, lui aussi privé et surveillé.",
+    "de": "Es gibt einen Privatparkplatz nur für Gäste mit direktem Zugang zum Hotel und zu den Zimmern. Die Innenplätze sind nur für Motorräder, begrenzt und nach Ankunftsreihenfolge; ist er voll, gibt es den Außenparkplatz, ebenfalls privat und bewacht."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "Disponemos de parking privado exclusivo para huéspedes , con acceso directo al hotel y a las habitaciones"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/contacto/",
+     "quote": "Las plazas del parking interior son exclusivas para motos y limitadas. El acceso es por orden de llegada, no se puede reservar. Una vez lleno se puede usar el parking exterior (tambien privado y vigilado)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Desayuno buffet de lunes a viernes de 7:30 a 10:30 h, y fines de semana y festivos de 8:00 a 11:00 h.",
+    "en": "Buffet breakfast Monday to Friday 7:30 to 10:30, and weekends and public holidays 8:00 to 11:00.",
+    "fr": "Petit-déjeuner buffet du lundi au vendredi de 7:30 à 10:30, et le week-end et les jours fériés de 8:00 à 11:00.",
+    "de": "Frühstücksbuffet Montag bis Freitag 7:30 bis 10:30 Uhr, am Wochenende und an Feiertagen 8:00 bis 11:00 Uhr."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/hotel-teruel-con-desayuno-incluido/",
+     "quote": "DE LUNES A VIERNES 7:30 a 10:30 h. FIN DE SEMANA Y FESTIVOS 8:00 a 11:00 h."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "entrada",
+     "salida",
+     "check"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "check-out",
+     "check out"
+    ],
+    "fr": [
+     "arrivee",
+     "depart"
+    ],
+    "de": [
+     "check-in",
+     "check in",
+     "check-out",
+     "anreise",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "La entrada es a partir de las 14:00 y la salida hasta las 12:00. Hay late check out según disponibilidad.",
+    "en": "Check-in is from 14:00 and check-out until 12:00. Late check-out is possible subject to availability.",
+    "fr": "L’arrivée se fait à partir de 14:00 et le départ jusqu’à 12:00. Départ tardif possible selon disponibilité.",
+    "de": "Check-in ab 14:00 Uhr, Check-out bis 12:00 Uhr. Später Check-out je nach Verfügbarkeit."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "La entrada es a partir de las 14:00 horas y la salida hasta las 12:00 horas"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "¿El hotel ofrece Late Check Out? Si, pero siempre pendiente de la disponibilidad de la habitación"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien"
+    ],
+    "de": [
+     "haustier",
+     "hund",
+     "tiere"
+    ]
+   },
+   "a": {
+    "es": "No, el hotel no acepta mascotas.",
+    "en": "No, the hotel does not accept pets.",
+    "fr": "Non, l’hôtel n’accepte pas les animaux.",
+    "de": "Nein, das Hotel nimmt keine Haustiere auf."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "¿Aceptáis mascotas? No, no aceptamos mascotas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "llegar"
+    ],
+    "en": [
+     "where are",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "venir"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en el Camino de la Estación, 27, 44001 Teruel, en pleno centro, junto al Parque de la Escalinata, con salida peatonal por la Calle San Francisco.",
+    "en": "It is at Camino de la Estación, 27, 44001 Teruel, right in the centre, next to the Escalinata park, with a pedestrian exit onto Calle San Francisco.",
+    "fr": "L’hôtel se trouve Camino de la Estación, 27, 44001 Teruel, en plein centre, à côté du parc de l’Escalinata, avec une sortie piétonne par la Calle San Francisco.",
+    "de": "Das Hotel liegt am Camino de la Estación, 27, 44001 Teruel, mitten im Zentrum neben dem Escalinata-Park, mit Fußgängerausgang zur Calle San Francisco."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/contacto/",
+     "quote": "Gran Hotel Botánicos Camino de la Estación, 27 - 44001 Teruel"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "en pleno centro de Teruel , junto al Parque de la Escalinata"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "gracias a la salida peatonal por la Calle San Francisco"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar) o preguntar por teléfono o por correo. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book through their booking engine (Book button) or ask by phone or email. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou demander par téléphone ou par e-mail. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder telefonisch bzw. per E-Mail anfragen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/contacto/",
+     "quote": "necesitas comprobar disponibilidad , estamos aquí para ayudarte"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "room service",
+   "keys": {
+    "es": [
+     "servicio de habitaciones",
+     "room service",
+     "lavanderia",
+     "bar"
+    ],
+    "en": [
+     "room service",
+     "laundry",
+     " bar"
+    ],
+    "fr": [
+     "room service",
+     "service en chambre",
+     "blanchisserie",
+     " bar"
+    ],
+    "de": [
+     "zimmerservice",
+     "room service",
+     "wascherei",
+     " bar"
+    ]
+   },
+   "a": {
+    "es": "Sí: room service de 08:00 a 11:00 y de 19:00 a 22:00. También hay servicio de lavandería y lobby bar.",
+    "en": "Yes: room service from 08:00 to 11:00 and from 19:00 to 22:00. There is also a laundry service and a lobby bar.",
+    "fr": "Oui : room service de 08:00 à 11:00 et de 19:00 à 22:00. Il y a aussi un service de blanchisserie et un lobby bar.",
+    "de": "Ja: Zimmerservice von 08:00 bis 11:00 und von 19:00 bis 22:00 Uhr. Außerdem Wäscheservice und eine Lobbybar."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/servicios-20/",
+     "quote": "Room service disponible de 08:00 a 11:00 y de 19:00 a 22:00"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/servicios-20/",
+     "quote": "Servicio de lavandería"
+    },
+    {
+     "url": "https://granhotelbotanicos.com/servicios-20/",
+     "quote": "Lobby bar para desconectar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "que ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "torico",
+     "catedral",
+     "amantes",
+     "mudejar"
+    ],
+    "en": [
+     "what to see",
+     "visit",
+     "cathedral",
+     "lovers",
+     "mudejar"
+    ],
+    "fr": [
+     "que voir",
+     "visiter",
+     "cathedrale",
+     "amants",
+     "mudejar"
+    ],
+    "de": [
+     "besichtig",
+     "sehenswurd",
+     "kathedrale",
+     "liebenden",
+     "mudejar"
+    ]
+   },
+   "a": {
+    "es": "A pocos minutos a pie: la Plaza del Torico, la Catedral de Santa María de Mediavilla, el Mausoleo de los Amantes, la Escalinata del Óvalo y las torres de El Salvador y San Martín, del arte mudéjar Patrimonio de la Humanidad.",
+    "en": "A few minutes’ walk away: the Plaza del Torico, Santa María de Mediavilla Cathedral, the Mausoleum of the Lovers, the Escalinata del Óvalo and the towers of El Salvador and San Martín, World Heritage Mudéjar art.",
+    "fr": "À quelques minutes à pied : la Plaza del Torico, la cathédrale Santa María de Mediavilla, le mausolée des Amants, l’Escalinata del Óvalo et les tours d’El Salvador et de San Martín, art mudéjar classé au patrimoine mondial.",
+    "de": "Wenige Gehminuten entfernt: die Plaza del Torico, die Kathedrale Santa María de Mediavilla, das Mausoleum der Liebenden, die Escalinata del Óvalo und die Türme El Salvador und San Martín, Mudéjar-Kunst und Welterbe."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "la Plaza del Torico , la Catedral de Santa María de Mediavilla con su torre mudéjar, el Mausoleo de los Amantes de Teruel , la Escalinata del Óvalo , la Torre de El Salvador o la Torre de San Martín , joyas del arte mudéjar de Teruel declarado Patrimonio de la Humanidad por la UNESCO"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: (+34) 978 623 957. Correo: reservas@granhotelbotanicos.com.",
+    "en": "Phone: (+34) 978 623 957. Email: reservas@granhotelbotanicos.com.",
+    "fr": "Téléphone : (+34) 978 623 957. E-mail : reservas@granhotelbotanicos.com.",
+    "de": "Telefon: (+34) 978 623 957. E-Mail: reservas@granhotelbotanicos.com."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/contacto/",
+     "quote": "reservas@granhotelbotanicos.com reservas@granhotelbotanicos.com (+34) 978 623 957"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "cunas",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe"
+    ],
+    "en": [
+     " cot",
+     "crib",
+     "baby"
+    ],
+    "fr": [
+     "lit bebe",
+     "lits bebe",
+     "bebe"
+    ],
+    "de": [
+     "kinderbett",
+     "baby"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene cunas para bebés; es un servicio gratuito y previa reserva.",
+    "en": "Yes, the hotel has baby cots; the service is free and must be requested in advance.",
+    "fr": "Oui, l’hôtel dispose de lits bébé ; c’est un service gratuit, sur réservation préalable.",
+    "de": "Ja, das Hotel hat Babybetten; der Service ist kostenlos und muss vorab reserviert werden."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/",
+     "quote": "Si, el hotel dispone de cunas para bebes. Es un servicio gratuito y previa reserva"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "bicis",
+   "keys": {
+    "es": [
+     "bici",
+     "vengo en bici",
+     "ciclista"
+    ],
+    "en": [
+     "bike",
+     "leave my bike",
+     "cyclist",
+     "bicycle"
+    ],
+    "fr": [
+     "velo",
+     "cycliste"
+    ],
+    "de": [
+     "fahrrad",
+     "radfahrer"
+    ]
+   },
+   "a": {
+    "es": "Tienen una Bike Zone equipada para cuidar tu bici, lavarla y dejarla bajo llave con vigilancia 24 h.",
+    "en": "They have a Bike Zone equipped to look after your bike, wash it and lock it away with 24 h surveillance.",
+    "fr": "Ils ont une Bike Zone équipée pour entretenir votre vélo, le laver et le laisser sous clé avec surveillance 24 h.",
+    "de": "Es gibt eine Bike Zone, um das Rad zu pflegen, zu waschen und unter Verschluss mit 24-h-Überwachung abzustellen."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelbotanicos.com/servicios-20/",
+     "quote": "Bike Zone Zona equipada para cuidar tu bici , lavarla y dejarla bajo llave con vigilancia 24 h"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
