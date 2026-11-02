@@ -1,0 +1,45 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://granhotelbotanicos.com/",
+ "read_at": "2026-11-02T09:16:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://granhotelbotanicos.com/",
+   "sha256": "16939e071c52e8f6cf4ea715e95b1acc3dc5ee7637dcfb8486a0b6c2c9007dbf",
+   "chars": 28228
+  },
+  {
+   "url": "https://granhotelbotanicos.com/contacto/",
+   "sha256": "43e8fd968a70c0308184e31411227c533f5e9e9231b2d08af2532a1655c98b9f",
+   "chars": 2246
+  },
+  {
+   "url": "https://granhotelbotanicos.com/habitaciones/",
+   "sha256": "e3a7557e6ab810cafe3c7c7e4bfa0c09db63ace7665d5657ec47deace87617ef",
+   "chars": 23749
+  },
+  {
+   "url": "https://granhotelbotanicos.com/hotel-teruel-con-desayuno-incluido/",
+   "sha256": "95cc4b3fec972c31725190857143aa8342985c6304953caabfe3108b76a08df3",
+   "chars": 29445
+  },
+  {
+   "url": "https://granhotelbotanicos.com/servicios-20/",
+   "sha256": "42fbbb95b84ce3579b4590609f03c6ec833b528ab58f7e6356fc96af926c1ae5",
+   "chars": 18971
+  }
+ ],
+ "other_pages_read": [
+  "https://granhotelbotanicos.com",
+  "https://granhotelbotanicos.com/aviso-legal/",
+  "https://granhotelbotanicos.com/blog/",
+  "https://granhotelbotanicos.com/galeria/",
+  "https://granhotelbotanicos.com/hotel-para-ciclistas-teruel/",
+  "https://granhotelbotanicos.com/hotel-romantico-teruel/",
+  "https://granhotelbotanicos.com/hotel-teruel-eventos-empresa/",
+  "https://granhotelbotanicos.com/moteros/",
+  "https://granhotelbotanicos.com/politica-de-cookies/",
+  "https://granhotelbotanicos.com/politica-de-privacidad/"
+ ]
+}
